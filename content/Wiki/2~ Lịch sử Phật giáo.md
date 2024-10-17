@@ -1,5 +1,6 @@
 ---
 title: Lịch sử Phật giáo
+date:
 draft: false
 tags:
   - global

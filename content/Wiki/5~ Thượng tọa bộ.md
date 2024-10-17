@@ -1,5 +1,6 @@
 ---
 title: Thượng tọa bộ
+date:
 draft: false
 tags:
   - global

@@ -1,5 +1,6 @@
 ---
 title: Các tông phái Phật giáo
+date:
 draft: false
 tags:
   - global

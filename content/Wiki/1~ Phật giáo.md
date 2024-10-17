@@ -21,7 +21,7 @@ Các trường phái Phật giáo khác nhau ở quan điểm về bản chất 
 ---
 ## Lịch sử
 
-*Bài chi tiết: [[2. Lịch sử Phật giáo]]*
+*Bài chi tiết: [[2~ Lịch sử Phật giáo]]*
 
 Phía đông bắc của tiểu lục địa Ấn Độ là dãy núi Hy-mã-lạp-sơn (Himalaya) cao lớn và dài tạo nên một hàng rào cô lập các vùng bình nguyên của xứ này với các vùng còn lại. Để liên lạc với bên ngoài thì chỉ có con đường núi xuyên qua Afghanistan. Khoảng 3000 năm TCN, người Dravidian bản địa xây dựng nên nền văn minh cổ xưa nhất ở Ấn Độ ven bờ sông Ấn và sông Hằng. Sau đó, người Aryan du mục đã dần mở mang và xâm chiếm các vùng lãnh thổ Ấn Độ và lan rộng ra hầu hết bán đảo Ấn Độ khoảng 1000 năm TCN. Nền văn hóa triết học chính ngự trị thời bấy giờ là văn hóa Vệ-đà (Vedas).
 
@@ -222,7 +222,7 @@ Song song với cách tu hành theo Tam học trên ta cũng tìm thấy phươn
 ---
 ## Tông phái
 
-*Bài chi tiết: [[3. Các tông phái Phật giáo]]*
+*Bài chi tiết: [[3~ Các tông phái Phật giáo]]*
 
 Với thời gian truyền đạo hơn 40 năm, số lượng bài giảng của Đức Phật nằm toàn bộ trong tam tạng Pali. Ngoài ra, do sự khác biệt về căn bản của các đệ tử, ông đã trình bày những bài giảng khác nhau nhằm tương hợp với khả năng tiếp thu của từng người. Sau khi ông qua đời, các thế hệ đệ tử trải qua hơn 2.500 năm truyền đạo, qua nhiều khu vực địa lý, môi trường văn hóa đã dung hợp và bổ túc vào giáo lý căn bản, hình thành nhiều sự dị biệt, dẫn đến sự ra đời của các tông phái khác nhau. Tuy nhiên, sự khác biệt của tông phái đã dẫn đến sự sai lệch rất nhiều so với giáo lý nguyên bản. Mặc dù vậy, bản thân giáo lý Phật giáo dù có phát triển qua thời gian, nhưng phật giáo nguyên thủy vẫn giữ toàn vẹn giáo lý nguyên thủy lúc đầu.
 
@@ -232,12 +232,12 @@ Dưới đây là một số tông phái Phật giáo nổi bật nhất:
 
 ### Phật giáo Nam truyền
 
-*Bài chi tiết: [[5. Thượng tọa bộ]]*
+*Bài chi tiết: [[5~ Thượng tọa bộ]]*
 
 ### Phật giáo Bắc truyền
 
 
-*Bài chi tiết: [[4. Phật giáo Đại thừa]]*
+*Bài chi tiết: [[4~ Phật giáo Đại thừa]]*
 
 #### Tịnh độ tông
 

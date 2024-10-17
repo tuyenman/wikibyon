@@ -1,5 +1,6 @@
 ---
 title: Phật giáo Đại thừa
+date:
 draft: false
 tags:
   - global

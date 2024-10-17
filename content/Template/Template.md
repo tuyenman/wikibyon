@@ -1,6 +1,5 @@
 ---
-title: Template
+title:
 draft: true
-tags: 
-date:
+tags:
 ---

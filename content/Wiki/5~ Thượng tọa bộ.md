@@ -1,9 +1,7 @@
 ---
-title: Thượng tọa bộ
-date:
+title: 
 draft: false
 tags:
-  - global
 ---
 *Đừng nhầm lẫn với Phật giáo Nguyên thủy, Phật giáo Nam truyền, hoặc Trưởng lão bộ.*
 

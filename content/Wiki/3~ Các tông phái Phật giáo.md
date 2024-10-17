@@ -1,9 +1,7 @@
 ---
-title: Các tông phái Phật giáo
-date:
+title: 
 draft: false
 tags:
-  - global
 ---
 Đạo Phật có một lịch sử phát triển rất thăng trầm trong suốt hơn 2.500 năm; lan tỏa từ Ấn Độ ra khắp nơi trên thế giới. Do đó, việc hình thành các bộ phái khác nhau, có phương pháp tu học và cách giải thích khác nhau về giáo lý cho thích hợp với tình hình của mỗi xã hội, mỗi thời điểm là chuyện tất yếu. Tuy vậy, bản thân giáo lý Phật giáo không hề có sự phân chia tông phái này.
 

@@ -1,7 +1,7 @@
 ---
 title: 
-draft: false
-tags:
+tags: 
+source: https://vi.wikipedia.org/wiki/Ph%E1%BA%ADt_gi%C3%A1o
 ---
 Phật giáo (tiếng Hán: 佛教 - tiếng Phạn: बुद्ध धर्म - IAST: buddha dharm, Tiếng Anh: Buddhism) hay đạo Phật là một tôn giáo đồng thời cũng là một hệ thống của triết học có nguồn gốc từ Ấn Độ bao gồm một loạt các giáo lý, tư tưởng triết học cũng như tư tưởng cùng tư duy về nhân sinh quan, vũ trụ quan, thế giới quan, giải thích hiện tượng tự nhiên, tâm linh, xã hội, bản chất sự vật và sự việc; các phương pháp thực hành, tu tập dựa trên những lời dạy ban đầu của một nhân vật lịch sử có thật tên là Tất-đạt-đa Cồ-đàm (悉達多瞿曇, सिद्धार्थ गौतम, Siddhārtha Gautama) và các truyền thống, tín ngưỡng được hình thành trong quá trình truyền bá, phát triển Phật giáo sau thời Tất-đạt-đa Cồ-đàm.
 

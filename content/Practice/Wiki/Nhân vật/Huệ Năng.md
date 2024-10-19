@@ -2,7 +2,7 @@
 title: 
 tags: 
 source: https://vi.wikipedia.org/wiki/Hu%E1%BB%87_N%C4%83ng
-draft: true
+draft: false
 ---
 **Huệ Năng** (zh. huìnéng/ hui-neng 慧能, ja. enō) (638-713), hay **Lục Tổ Huệ Năng**, là một vị Thiền sư vĩ đại trong lịch sử Thiền Tông Trung Hoa. Sư kế tiếp Ngũ Tổ Hoằng Nhẫn, trở thành vị Tổ thứ 6 của Thiền Tông Trung Quốc.
 

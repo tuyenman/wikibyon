@@ -1,11 +1,13 @@
 ---
-title: 
-draft: false
+Create date: 
+Source: 
+Context: 
 tags:
+  - practice
+---
 ---
 - Khi vẫn còn là chúng sinh, chúng ta không có được trải nghiệm sự thanh tịnh hoàn toàn
 - Sự thanh tịnh hoàn toàn là sự hoàn hảo của tâm trí tuệ 
-- 
 
 > Chúng ta cần phải tích lũy công đức để có thể chuyển hóa trải nghiệm bình phàm của mình thành trải nghiệm giác ngộ thuần khiết
 

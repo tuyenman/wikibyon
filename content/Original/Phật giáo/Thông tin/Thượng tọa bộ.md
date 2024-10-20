@@ -1,7 +1,7 @@
 ---
-title: 
-tags: 
-source: https://vi.wikipedia.org/wiki/Th%C6%B0%E1%BB%A3ng_t%E1%BB%8Da_b%E1%BB%99
+Source: https://vi.wikipedia.org/wiki/Th%C6%B0%E1%BB%A3ng_t%E1%BB%8Da_b%E1%BB%99
+tags:
+---
 ---
 *Đừng nhầm lẫn với Phật giáo Nguyên thủy, Phật giáo Nam truyền, hoặc Trưởng lão bộ.*
 

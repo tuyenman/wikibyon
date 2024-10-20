@@ -1,9 +1,7 @@
 ---
-title: 
+Source: 
 tags:
-  - template
-source: 
-draft: false
+---
 ---
 Trong [[Phật giáo Đại thừa]], tam thân (tiếng Trung: 三身, tiếng Phạn: त्रिकाय trikāya) là ba loại thân của một vị Phật. Quan điểm này xuất phát từ tư tưởng cho rằng Phật—như một nhân vật đã xuất hiện trên thế gian để hoằng hoá, tiếp độ chúng sinh—chính là biểu hiện của cái Tuyệt đối, của Chân như và Phật có khi hiện thân thành nhiều hình tướng khác nhau chỉ vì lợi ích của chúng sinh. Quan niệm Tam thân Phật được nêu ra nhằm nói lên quan điểm đó.
 

@@ -1,7 +1,7 @@
 ---
-title: 
-tags: 
-source: https://vi.wikipedia.org/wiki/L%E1%BB%8Bch_s%E1%BB%AD_Ph%E1%BA%ADt_gi%C3%A1o
+Source: https://vi.wikipedia.org/wiki/L%E1%BB%8Bch_s%E1%BB%AD_Ph%E1%BA%ADt_gi%C3%A1o
+tags:
+---
 ---
 Phật giáo được Phật Thích Ca Mâu Ni (Shakyamuni Buddha) truyền giảng ở miền đông Ấn Độ vào thế kỷ 6 TCN. Được truyền bá trong khoảng thời gian 49 năm khi Đức Phật còn tại thế ra nhiều nơi đến nhiều chủng tộc nên lịch sử phát triển của đạo Phật khá đa dạng về các bộ phái cũng như các nghi thức hay phương pháp tu học. Ngay từ buổi đầu, Phật Thích Ca, người sáng lập đạo Phật, đã tổ chức được một giáo hội với các giới luật chặt chẽ. Nhờ vào sự uyển chuyển của giáo pháp, đạo Phật có thể thích nghi với nhiều hoàn cảnh xã hội, nhiều dạng người, nhiều tập tục ở các thời kỳ khác nhau, và do đó ngày nay Phật giáo vẫn tiếp tục tồn tại và ngày càng phát triển rộng rãi trên toàn thế giới, ngay cả trong các nước có nền khoa học tiên tiến như Hoa Kỳ và Tây Âu.
 

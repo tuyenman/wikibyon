@@ -1,6 +1,8 @@
 ---
 Source: https://vi.wikipedia.org/wiki/Ph%E1%BA%ADt_gi%C3%A1o_%C4%90%E1%BA%A1i_th%E1%BB%ABa
-tags:
+tags: 
+aliases:
+  - Đại thừa
 ---
 ---
 Đại thừa (tiếng Phạn: महायान，mahāyāna; chữ Hán: 大乘), phiên âm Hán-Việt là Ma-ha-diễn-na (摩訶衍那) hay Ma-ha-diễn (摩訶衍), tức là "cỗ xe lớn" hay còn gọi là Đại Thặng tức là "bánh xe lớn" là một trong hai trường phái lớn của đạo Phật, phổ biến tại các nước Trung Quốc, Nhật Bản, Việt Nam, Hàn Quốc và Triều Tiên. Trong một số tài liệu hiện đại, các danh xưng Phật giáo Bắc tông, Phật giáo Bắc truyền hay Phật giáo Phát triển, cũng được xem là tương đương và có thể được dùng để thay thế thuật ngữ Phật giáo Đại thừa.

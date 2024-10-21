@@ -56,7 +56,7 @@ Dù rằng Phật giáo đã có nhiều phân nhóm, nhưng tựu trung đây v
 
 ### Theravāda
 
-*Bài chi tiết: Thượng tọa bộ*
+*Bài chi tiết: [[Thượng tọa bộ]]*
 
 Theravāda là một nhánh hậu thân từ Sthaviravāda, một trong hai bộ phái đầu tiên hình thành ngay trong thế kỷ đầu tiên sau khi Tất-đạt-đa Cồ-đàm nhập diệt. Chữ Sthaviravāda có nghĩa là "Bộ phái kết tập kinh điển bởi các Bậc Trưởng lão" (theo kinh điển, lần kết tập Tam tạng này chỉ có sự tham gia của các bậc A-la-hán mà thôi, không có sự tham dự của các vị Tì-kheo phàm nhân), do đó nhiều sách còn gọi nhóm này là Trưởng lão bộ, hay còn gọi là Phái Bảo thủ, Phái Nguyên thủy, nghĩa là có chủ trương thống nhất là hoàn toàn tôn trọng và bảo toàn tất cả những lời dạy ban đầu của Tất-đạt-đa Cồ-đàm, không thêm và cũng không bớt những gì mà ông đã thuyết giảng trong Tam tạng kinh điển.
 
@@ -69,7 +69,7 @@ Chính tại Sri Lanka là nơi bảo tồn được truyền thống của T
 
 ### Mahayana
 
-*Bài chi tiết: Phật giáo Đại thừa*
+*Bài chi tiết: [[Phật giáo Đại thừa]]*
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Kano_White-robed_Kannon%2C_Bodhisattva_of_Compassion.jpg/170px-Kano_White-robed_Kannon%2C_Bodhisattva_of_Compassion.jpg)
 
@@ -95,7 +95,7 @@ Bên trong Đại thừa, lại có các trường phái khác như là Madhymak
 
 ### Vajrayana
 
-*Bài chi tiết: Mật tông*
+*Bài chi tiết: [[Mật tông]]*
 
 Vajrayana còn có tên gọi là Tantra, Mật tông, Kim cương thừa. Khác với các bộ phái khác, Mật tông thường có khuynh hướng giữ bí mật các thông tin nên khó xác định được chính xác thời điểm ra đời của tông này. Nó xuất hiện vào khoảng thế kỉ thứ 6, hay chắc chắn hơn là thế kỉ thứ 7 ở Ấn Độ. Phái này chia sẻ chung nhiều tư tưởng với Đại thừa nhưng có nhấn mạnh trong việc thực hành.
 
@@ -120,7 +120,7 @@ Nếu như Đại thừa có nhiều tính chất thiên về triết lý, tư d
 
 ### Tịnh Độ tông
 
-*Bài chi tiết: Tịnh Độ tông*
+*Bài chi tiết: [[Tịnh Độ tông]]*
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Kamakura_Daibutsu_Dec08-1.jpg/240px-Kamakura_Daibutsu_Dec08-1.jpg)
 
@@ -139,7 +139,7 @@ Hình thức tu học phổ biến là: Niệm danh hiệu Phật A Di Đà, t�
 
 ### Thiền tông
 
-*Bài chi tiết: Thiền tông*
+*Bài chi tiết: [[Thiền tông]]*
 
 Thiền tông (Dhyana) còn có các tên khác là ZEN, ch'an, tên cũ là Thiền na. Thiền là một phương tiện căn bản đã được đạo Phật sử dụng ngay từ khởi thủy, nhưng cho đến khi thiền sư sơ tổ của môn phái thiền Trung Hoa là Bồ Đề Đạt Ma (Bodhidharma) du hành sang Trung Hoa (năm 520) và truyền lại thì Thiền tông bắt đầu trở thành một tông phái riêng biệt. Đến đời thứ 6, sư Huệ Năng (Hui-neng) đã đưa Thiền tông dần dà phát triển và nó đã thịnh hành hơn tất cả các tông phái Phật giáo khác ở Trung Hoa. Huệ Năng cũng là người đã hủy bỏ thông tục truyền thừa, nghĩa là không có sư tổ đời thứ 7 của Thiền Tông, thay vào đó là hàng loạt các thiền sư có khả năng mở thành các phái thiền khác dựa theo sự phân biệt về cung cách luyện tập và cách để đưa thiền giả đến chỗ chứng ngộ chân lý. Ngày nay, Thiền tông là một trong những pháp môn được tu tập nhiều nhất ở các nước phương Tây. Theo nhiều nhà phân tích thì Thiền tông là một phân nhánh của Mahayana.
 
@@ -173,24 +173,24 @@ Vì các giáo lý Phật giáo đều tùy theo tâm cảnh của người tu
 
 ### Sarvāstivādin (Nhất thiết hữu bộ)
 
-*Bài chi tiết: Nhất thiết hữu bộ*
+*Bài chi tiết: [[Nhất thiết hữu bộ]]*
 
 Trường phái này ra đời khoảng thế kỷ thứ 3 TCN và đã phát triển ở Tây Bắc Ấn trong thời kỳ kết tập kinh điển lần thứ IV. Sau đó trở nên vững mạnh trong cả vùng Bắc và Tây Bắc xứ Ấn trong khoảng một ngàn năm sau. Nó mở ra tới Kashmir, Trung Á và cả Trung Hoa. Abhidharmakośa (Đại Tỳ Bà Sa luận) của đạo sư Thế Thân là tác phẩm quan trọng nhất của phái này. Trường phái này nhấn mạnh lời dạy của Phật rằng "bản chất đạo đức của các hành vi sẽ quyết định những kinh nghiệm tương lai của người làm các hành vi ấy" (theo Andrew Skilton). Phái này cho rằng các yếu tố không thể giản lược của hiện hữu (dharmas) cũng thể hiện trong quá khứ và tương lai. Do đó, những dharmas đã tạo nên hành vi trong quá khứ có thể tạo được ảnh hưởng ở một thời điểm sau đó. Sarvāstivādin căn cứ trên tiền đề duyên khởi (Pratityasamutpàda) là: bởi có cái này nên có cái kia để giải thích về các nhận thức tri thức. Vì phải có đối tượng (cảm nhận hay nhận thức) mới có tri thức nên nếu thừa nhận hoạt động của tri thức thì cần chấp nhận sự tồn tại của đối tượng. Xa hơn, phái này còn chỉ ra rằng mọi ảo giác không thực đều phải dựa trên các chi tiết thực mà nhận thức đã có trước đó và do đó công nhận sự thực hữu của mọi cảm nhận (kể cả giấc mộng). Học thuyết này còn tách biệt Phật bảo với Pháp bảo và cho rằng Phật bảo là tập họp của những dharmas làm nên Phật các hiểu biết và các cảm-hoạt (hay uẩn bao gồm sắc, thọ, tưởng, hành, thức - scandhas) của Phật. Phái này đã đặt ra nhiều nền móng tư tưởng cho Đại thừa sau này.
 
 ### Sautrāntika (Kinh lượng bộ)
 
-*Bài chi tiết: Kinh lượng bộ*
+*Bài chi tiết: [[Kinh lượng bộ]]*
 
 Tông phái này ra đời vào khoảng năm 50 TCN cho đến cuối thế kỷ thứ 1. Phái này bác bỏ quan điểm dharmas của Sarvāstivādin và cho rằng mọi dharmas chỉ hiện hữu tức thời. Để giải thích các vấn đề về nghiệp (karma), trường phái này đưa ra tư tưởng về các bījas, hay hạt giống. Hạt giống được trồng bởi những hành vi với đặc tính đạo đức nhất định, sau này mới đâm chồi, và khi điều kiện cho phép sẽ cho quả phù hợp với hành vi tạo tác. Đối với phái này thì giáo lý của tạng Kinh thường tồn sẽ tạo thành hạt giống trong tâm thức để khi có dịp sẽ phát huy tính năng (Tên Kinh Lượng cũng do việc đề cao vai trò của tạng Kinh mà có). Một hệ quả của lập luận này là ngoài tâm có pháp. Một cách diễn dịch dễ hiểu hơn là chân lý nằm bên ngoài tâm thức. Họ cũng thừa nhận về lý duyên khởi (vì có cái này nên có cái kia) nhưng cho rằng tính không được thể hiện trong mọi tình huống của nhận thức.
 
 ### Yogācārin (Duy Thức Tông)
 
-*Bài chi tiết: Duy Thức tông*
+*Bài chi tiết: [[Duy Thức tông]]*
 
 Phái Duy thức ra đời vào khoảng đầu thế kỉ thứ 4 do đạo sư Vô trước (Asaṅga) (khoảng 310-390) sáng lập. Trường phái này nhấn mạnh rằng "vạn pháp duy tâm" (nghĩa là mọi vật đều do tâm). Từ kinh nghiệm thiền định, thuyết này chỉ ra sự sai lầm của nhận thức về các đối tượng đối với sự hiện hữu thực sự của chúng. Điều mà trường phái muốn nói không phải là mọi sự đều được làm thành bởi cái tâm, nhưng muốn nói rằng toàn thể kinh nghiệm đều lệ thuộc vào hay nhờ vào tâm của chúng ta. Mọi sự vật mà chúng ta biết, mọi yếu tố của nhận thức của chúng ta, cơ bản đều là một thành phần của một quy trình của tâm. Trường phái này cho rằng tâm thực sự hiện hữu (khác với Trung quán). Như vậy, tâm thì trống rỗng theo nghĩa là tâm không có phân biệt chủ thể và khách thể.
 
 ### Mādhyamika (Trung Quán Tông)
 
-*Bài chi tiết: Trung Quán tông*
+*Bài chi tiết: [[Trung Quán tông]]*
 
 Phái này do đạo sư Long Thọ (150-250) (Nāgārjuna, నాగార్జునా) sáng lập. Phái Trung quán tập trung vào chủ đề tính không. Đây là thuộc tính của vạn vật. Vạn vật chỉ do nhân duyên sinh ra, cho nên những sự vật hiện thấy có là không thực sự tồn tại. Phái này có tên là Trung quán là vì nó chỉ ra con đường ở giữa chủ nghĩa hằng cửu (mọi vật tồn tại vĩnh viễn) và chủ nghĩa hư vô (không có gì tồn tại). Chủ thuyết này nhìn nhận sự hiện hữu thông thường của các đối tượng xuất hiện trong dòng chảy liên tục của các nhân duyên. Không vật gì có thể tồn tại một cách độc lập với mọi điều kiện bên ngoài (tính hỗ tương tồn tại). Đồng thời, có sự liên hệ phụ thuộc giữa thành phần và toàn thể trong mỗi sự vật. Thêm vào đó, do tính chất vô thường trên từng khoảnh khắc, không vật gì có thể hiện hữu tuyệt đối kể cả tâm và thế giới vật lý bởi vì chúng thiếu vắng đối tượng thực sự của sự hiện hữu. Như vậy tính không ở đây so với trường phái Duy Thức, đã được nới rộng áp dụng lên vạn vật.

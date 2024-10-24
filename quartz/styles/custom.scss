@@ -6,3 +6,43 @@
  {
 	padding-top: 1rem;
 }
+
+.page>#quartz-body .page-header {
+	margin: 0;
+}
+h1, h2, h3 {
+	color: #bb9af7 ;
+}
+.search-button p,
+footer a {
+	color: #7aa2f7;
+}
+.search>.search-button svg .search-path {
+	stroke: #7aa2f7;
+}
+strong, em {
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	padding: 0;
+	color: #7aa2f7;
+	background-color: #7aa2f7;
+	background-image: linear-gradient(62deg, #87c2fd 0%, #dcb9fc 100%) !important;
+}
+
+article a.internal {
+	border-bottom: 2px solid #764cd5d1;
+	background-color: transparent;
+	border-radius: 0;
+}
+
+#explorer-content ul li>a:active {
+	color: #0fb6d6;
+}
+
+#explorer-content ul li>a {
+	font-weight: normal;
+	font-size: 14px;
+}
+.content-meta {
+	font-size: 14px;
+}

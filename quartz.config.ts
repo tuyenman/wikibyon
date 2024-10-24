@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Wiki by On",
+    pageTitle: "Universe by On",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -40,14 +40,14 @@ const config: QuartzConfig = {
           textHighlight: "#fff23688",
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
+          light: "#100e17",
+          lightgray: "#191621",
           gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
+          darkgray: "#fbfbfb",
+          dark: "#f8fcff",
+          secondary: "#bebebe",
+          tertiary: "#a882ff",
+          highlight: "#6439c77a",
           textHighlight: "#b3aa0288",
         },
       },

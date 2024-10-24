@@ -1,0 +1,1 @@
+Liệu bản tính chúng ta có thường hằng qua thời gian hay không?

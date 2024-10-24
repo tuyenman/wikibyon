@@ -1,9 +1,13 @@
 ---
 Source: https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_Nh%E1%BA%ADt_Nh%C6%B0_Lai
 tags:
+  - wiki
+aliases:
+  - Tỳ-lư-xá-na
+  - Đại Nhật Như Lai
 ---
 ---
-Tỳ-lô-giá-na (tiếng Phạn: वैरोचन, Vairocana), còn được biết đến với tên gọi Tỳ-lư-xá-na hoặc Đại Nhật Như Lai (chữ Hán: 大日如来) là danh hiệu một vị Phật trong truyền thống [[Phật giáo Đại thừa]] và [[Kim cương thừa]]. Theo Kinh Hoa nghiêm, Tỳ-lô-giá-na chính là pháp thân của Thích-ca Mâu-ni. Trong Mạn-đà-la của Mật tông thì Đại Nhật Như Lai ở vị trí trung tâm. Ngài là biểu hiện của ánh sáng Trí Tuệ chiếu soi và diệt trừ bóng tối của vô minh.
+Tỳ-lô-giá-na (tiếng Phạn: वैरोचन, Vairocana), còn được biết đến với tên gọi Tỳ-lư-xá-na hoặc Đại Nhật Như Lai (chữ Hán: 大日如来) là danh hiệu một vị Phật trong truyền thống [[Phật giáo Đại thừa]] và [[Kim cương thừa]]. Theo Kinh Hoa nghiêm, Tỳ-lô-giá-na chính là pháp thân của [[Thích-ca Mâu-ni]]. Trong Mạn-đà-la của Mật tông thì Đại Nhật Như Lai ở vị trí trung tâm. Ngài là biểu hiện của ánh sáng Trí Tuệ chiếu soi và diệt trừ bóng tối của vô minh.
 ## Danh hiệu
 
 Nguyên văn tiếng Phạn, danh hiệu Vairocana (tiếng Phạn: वैरोचन), đôi khi được xưng tụng là Mahavairocana, Hán dịch là Tịnh Mãn (淨滿, đầy sạch), nghĩa là "các lầm không còn, các đức đầy đủ".

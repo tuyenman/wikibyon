@@ -2,7 +2,7 @@
 Source: https://vi.wikipedia.org/wiki/Long_Th%E1%BB%A5
 tags: 
 aliases:
-  - Long Thụ
+  - Long Thọ
 ---
 ---
 Long Thụ, còn gọi là Long Thọ (zh. 龍樹; sa. nāgārjuna नागार्जुन; bo. klu sgrub ཀླུ་སྒྲུབ་), dịch âm là Na-già-át-thụ-na (zh. 那伽閼樹那), thế kỷ 1–2, là một trong những luận sư vĩ đại nhất của lịch sử [[Phật giáo]].

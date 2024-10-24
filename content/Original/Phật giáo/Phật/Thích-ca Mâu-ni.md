@@ -1,6 +1,9 @@
 ---
 Source: https://vi.wikipedia.org/wiki/Th%C3%ADch-ca_M%C3%A2u-ni
 tags:
+  - wiki
+aliases:
+  - Thích-ca
 ---
 ---
 Siddhartha Gautama (tiếng Phạn: सिद्धार्थ गौतम, Hán-Việt: Tất-đạt-đa Cồ-đàm) hay Gautama Buddha, còn được gọi là Shakyamuni (tiếng Phạn: शाक्यमुनि, Hán-Việt: Thích-ca Mâu-ni) là một nhà tu hành và nhà truyền giáo, người sáng lập ra [[Phật giáo]].
